@@ -1,4 +1,4 @@
 # my-new-project
 tutorial4
 
-this line was edited on main
+This line includes changes from both branches.
